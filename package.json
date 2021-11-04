@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/chesar48/REST-API-BULAN-KOMUNIKASI/issues"
   },
-  "homepage": "https://github.com/chesar48/REST-API-BULAN-KOMUNIKASI#readme"
+  "homepage": "https://github.com/chesar48/REST-API-BULAN-KOMUNIKASI#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
 }
