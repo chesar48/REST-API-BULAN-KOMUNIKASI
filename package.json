@@ -1,0 +1,23 @@
+{
+  "name": "restapibulkom",
+  "version": "1.0.0",
+  "description": "restapi bulan komunikasi uny",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chesar48/REST-API-BULAN-KOMUNIKASI.git"
+  },
+  "keywords": [
+    "RESTAPI",
+    "NodeJS"
+  ],
+  "author": "Chesar Ajit Rizkyawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chesar48/REST-API-BULAN-KOMUNIKASI/issues"
+  },
+  "homepage": "https://github.com/chesar48/REST-API-BULAN-KOMUNIKASI#readme"
+}
